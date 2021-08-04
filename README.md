@@ -16,3 +16,21 @@ h2 = Positive relationship of income level, indicating that the higher the incom
   
 #### 2. Exploratory Data Analysis
 
+#### 3. Fitted Model
+### Using Scikit-learn
+
+The first model corresponding to the female case is defined as follows  
+
+	occ_ratef ~ avg_eduf + income_amf
+	𝑜𝑐𝑢𝑝𝑎𝑡𝑖𝑜𝑛𝑟𝑎𝑛𝑔𝑒𝑓 = 79.11−6.13∗𝑎𝑣𝑔𝑒𝑑𝑢𝑚 + 0.000040∗𝑖𝑛𝑐𝑜𝑚𝑒𝑎𝑚𝑚
+
+### Using Statsmodels
+
+# SUMMARY
+
+# Verifying the assumptions
+
+# Linearity
+
+The inspection of the plots shows that the linearity assumption is not satisfied.
+
