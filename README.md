@@ -30,7 +30,7 @@ h2 = Positive relationship of income level, indicating that the higher the incom
 #### 2.2 Dispersion and Normal Distribution
 
 <p align="center">
-  <img src="plots/asumptions1.png" />
+  <img src="plots/dispersion.png" width = "500" height = "500"/>
 </p>
 
 ### 3. Fitted Model
@@ -59,7 +59,7 @@ The model with all the dependent variables introduced as predictors has a high R
 The inspection of the plots shows that the linearity assumption is satisfied. The homoscedasticity graph shows random residuals with a slight pattern that can be considered as a sign of non-constant variance, that is, of heteroscedasticity, therefore the Breush Pagan Test is applied. According to this test p-value obtains a value of 0.06 higher than the significance level of 0.05.
 
 <p align="center">
-  <img src="plots/dispersion.png" width = "500" height = "500"/>
+  <img src="plots/asumptions1.png"/>
 </p>
 
 ####  Normality
@@ -93,8 +93,7 @@ The p-value and Durbin-Watson statistic allow us to observe that ɖ falls in the
 #### 2.2 Dispersion and Normal Distribution
 Although the values are normally distributed, the presence of an unusual value can be visualized.
 <p align="center">
-  <img src="plots/assumptions2.png" />
-</p>
+  <img src="plots/dispersion_m.png" width = "500" height = "500"/> 
 
 ### 3. Fitted Model
 #### Using Scikit-learn
@@ -129,7 +128,7 @@ The presence of an unusual value is verified for the period 2008-3.
 The inspection of the plots shows that the linearity assumption is satisfied. The homoscedasticity graph shows random residuals with a slight pattern that can be considered as a sign of non-constant variance, that is, of heteroscedasticity, therefore the Breush Pagan Test is applied. According to this test p-value obtains a value of 0.68 higher than the significance level of 0.05.
 
 <p align="center">
-  <img src="plots/dispersion_m.png" width = "500" height = "500"/>
+  <img src="plots/assumptions2.png/>
 </p>
 
 ####  Normality
