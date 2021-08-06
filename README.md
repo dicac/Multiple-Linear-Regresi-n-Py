@@ -120,7 +120,7 @@ The model with all the dependent variables introduced as predictors has a medium
 The presence of an unusual value is verified for the period 2008-3.
 
 <p align="center">
-  <img src="plots/outlier" />
+  <img src="plots/outlier.png" />
 </p>
 
 ### 4. Verifying the assumptions
