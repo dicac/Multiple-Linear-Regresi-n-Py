@@ -128,7 +128,7 @@ The presence of an unusual value is verified for the period 2008-3.
 The inspection of the plots shows that the linearity assumption is satisfied. The homoscedasticity graph shows random residuals with a slight pattern that can be considered as a sign of non-constant variance, that is, of heteroscedasticity, therefore the Breush Pagan Test is applied. According to this test p-value obtains a value of 0.68 higher than the significance level of 0.05.
 
 <p align="center">
-  <img src="plots/assumptions2.png/>
+  <img src="plots/assumptions2.png"/>
 </p>
 
 ####  Normality
